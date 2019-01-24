@@ -1,5 +1,5 @@
 # Lucifer-hello-world
-this repository is for testing my first time using github.
+this reposis for  first time usingfghf github.fhf
 #include<stdio.h>
 
 void main(void)
